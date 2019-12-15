@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "81327759490",
+    "firebase_url": "https://shop-154808.firebaseio.com",
+    "project_id": "shop-154808",
+    "storage_bucket": "shop-154808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81327759490:android:6263fac7e378a6c4",
+        "android_client_info": {
+          "package_name": "agent.shop.az"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81327759490-vqmiq8hi0qjjg8c59g943pj0aar0m88a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agent.shop.az",
+            "certificate_hash": "3840c83e4c067faf8d6c1e4800dcbd2b3e69e48a"
+          }
+        },
+        {
+          "client_id": "81327759490-ivlcccig84is8fblvih4a81mec60qqqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBy464eFob7aLGBNBSN29o18kKlsS7Rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81327759490-ra1op9quu6mcho0tho1c3oevom0djis1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81327759490-7luaha3udo78kojqv5auc1pll5qs81bj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "crocusoft.shop.az"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81327759490:android:b9e93d45b51d1c55",
+        "android_client_info": {
+          "package_name": "az.shop.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81327759490-p6agu68vq9a5ca0pla9lsble8bh0opc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "az.shop.android",
+            "certificate_hash": "08ae2d4d0eac344f38e035016b55cf922aa2417b"
+          }
+        },
+        {
+          "client_id": "81327759490-mor0e5a72op1mug55g3s55b81u539780.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "az.shop.android",
+            "certificate_hash": "3d631de0c1d4b81a369ff182ac4886bbbbbdf127"
+          }
+        },
+        {
+          "client_id": "81327759490-gsv9btfj6opmtg78sgmjlc9urm2b7nf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "az.shop.android",
+            "certificate_hash": "81c765b4064f3c24b36f2d56aac3eb5429e9772a"
+          }
+        },
+        {
+          "client_id": "81327759490-ivlcccig84is8fblvih4a81mec60qqqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBy464eFob7aLGBNBSN29o18kKlsS7Rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81327759490-ra1op9quu6mcho0tho1c3oevom0djis1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81327759490-7luaha3udo78kojqv5auc1pll5qs81bj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "crocusoft.shop.az"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
